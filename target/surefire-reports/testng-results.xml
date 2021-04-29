@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="6" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-31T21:57:38 EDT" name="Suite" finished-at="2021-03-31T21:57:38 EDT" duration-ms="49">
+    <groups>
+      <group name="Sanity">
+        <method signature="AppiumTest.IosApp()[pri:0, instance:qaclickacademy.MavenJava.AppiumTest@45ca843]" name="IosApp" class="qaclickacademy.MavenJava.AppiumTest"/>
+        <method signature="SeleniumTest.elementsUI()[pri:0, instance:qaclickacademy.MavenJava.SeleniumTest@1d8bd0de]" name="elementsUI" class="qaclickacademy.MavenJava.SeleniumTest"/>
+      </group> <!-- Sanity -->
+    </groups>
+    <test started-at="2021-03-31T21:57:38 EDT" name="Test" finished-at="2021-03-31T21:57:38 EDT" duration-ms="49">
+      <class name="qaclickacademy.MavenJava.SeleniumTest">
+        <test-method signature="elementsUI()[pri:0, instance:qaclickacademy.MavenJava.SeleniumTest@1d8bd0de]" started-at="2021-03-31T21:57:38 EDT" name="elementsUI" finished-at="2021-03-31T21:57:38 EDT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- qaclickacademy.MavenJava.SeleniumTest -->
+      <class name="qaclickacademy.MavenJava.AppiumTest">
+        <test-method signature="IosApp()[pri:0, instance:qaclickacademy.MavenJava.AppiumTest@45ca843]" started-at="2021-03-31T21:57:38 EDT" name="IosApp" finished-at="2021-03-31T21:57:38 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IosApp -->
+      </class> <!-- qaclickacademy.MavenJava.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
