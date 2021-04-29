@@ -3,7 +3,7 @@ package javaMethods;
 public class ClassA {
 
 	public static void main(String[] args) {
-		System.out.println("Hello Wrold !!!");
+		System.out.println("in Class A");
 
 	}
 
